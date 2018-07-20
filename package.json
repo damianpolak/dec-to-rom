@@ -1,0 +1,38 @@
+{
+  "name": "dec-to-rom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^1.0.0-beta.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damianpolak/dec-to-rom.git"
+  },
+  "keywords": [
+    "decimal",
+    "roman",
+    "numerals",
+    "numbers",
+    "number",
+    "convert",
+    "conversion",
+    "dec-to-rom",
+    "dec",
+    "to",
+    "rom"
+  ],
+  "author": {
+    "name": "Damian Polak",
+    "email": "deeppurple044@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damianpolak/dec-to-rom/issues"
+  },
+  "homepage": "https://github.com/damianpolak/dec-to-rom#readme"
+}
